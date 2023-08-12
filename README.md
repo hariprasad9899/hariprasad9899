@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/https://twitter.com/haripra31267702" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/haripra31267702?logo=twitter&style=for-the-badge" alt="https://twitter.com/haripra31267702" /></a> </p>
  -->
-- 🔭 I’m currently working on **Show Menu**
+- 🔭 I’m currently working on **Infosys**
 
 - 🌱 I’m currently learning **WEB3, Smart Contracts**
 
